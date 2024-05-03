@@ -4,6 +4,12 @@
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2202"
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "TastyChickenLegs-AutomaticFuel-1.4.0",
+        "OdinPlus-QuickTeleport-1.0.0",
+        "Nextek-SpeedyPaths-1.0.8",
+        "Crystal-BetterChat-1.4.9",
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
+        "CW_Jesse-BetterNetworking_Valheim-2.3.2"
     ]
 }
