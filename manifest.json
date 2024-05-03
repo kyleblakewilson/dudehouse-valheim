@@ -1,6 +1,6 @@
 {
-    "name": "Dudehouse Server",
-    "version_number": "1.0",
+    "name": "DudehouseServer",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
