@@ -1,15 +1,16 @@
 {
     "name": "DudehouseServer",
-    "version_number": "1.0.6",
+    "version_number": "1.0.7",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
+        "ValheimModding-Jotunn-2.20.1"
         "Xenofell-TorchesEternal-0.2.0",
         "OdinPlus-QuickTeleport-1.0.0",
         "Nextek-SpeedyPaths-1.0.8",
         "NaNNaBoaT-Simple_Chat-1.2.0",
-        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.7",
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.8",
         "CW_Jesse-BetterNetworking_Valheim-2.3.2",
         "cjayride-AdvancedSigns-0.4.0",
         "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.4",
