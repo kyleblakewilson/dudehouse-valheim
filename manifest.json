@@ -5,7 +5,8 @@
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
-        "ValheimModding-Jotunn-2.20.1"
+        "ValheimModding-Jotunn-2.20.1",
+        "RustyMods-Almanac-3.3.1",
         "Xenofell-TorchesEternal-0.2.0",
         "OdinPlus-QuickTeleport-1.0.0",
         "Nextek-SpeedyPaths-1.0.8",
