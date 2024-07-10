@@ -1,12 +1,12 @@
 {
     "name": "DudehouseServer",
-    "version_number": "1.0.7",
+    "version_number": "1.0.8",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "ValheimModding-Jotunn-2.20.1",
-        "RustyMods-Almanac-3.3.1",
+        "RustyMods-Almanac-3.3.2",
         "Xenofell-TorchesEternal-0.2.0",
         "OdinPlus-QuickTeleport-1.0.0",
         "Nextek-SpeedyPaths-1.0.8",
