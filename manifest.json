@@ -1,6 +1,6 @@
 {
     "name": "DudehouseServer",
-    "version_number": "1.2.0",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
@@ -19,6 +19,7 @@
         "TastyChickenLegs-AutomaticFuel-1.4.4",
         "MathiasDecrock-TransparentSail-1.3.0",
         "Smoothbrain-SmoothSave-1.0.5",
-        "RustyMods-Almanac-3.4.0"
+        "RustyMods-Almanac-3.4.0",
+        "Alpus-Transmog-2.0.2"
     ]
 }
