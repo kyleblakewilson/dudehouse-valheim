@@ -1,6 +1,6 @@
 {
     "name": "DudehouseServer",
-    "version_number": "1.5.0",
+    "version_number": "1.6.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
@@ -22,6 +22,7 @@
         "RustyMods-Almanac-3.4.0",
         "Alpus-Transmog-2.0.2",
         "Voxx-TrollRugs-1.0.2",
-        "ASharpPen-Custom_Raids-1.7.13"
+        "ASharpPen-Custom_Raids-1.7.13",
+        "Meldurson-MountUpRestored-3.4.1"
     ]
 }
