@@ -5,7 +5,7 @@
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
-        "ValheimModding-Jotunn-2.23.1",
+        "ValheimModding-Jotunn-2.24.0",
         "Pineapple-TorchesEternal-0.3.0",
         "OdinPlus-QuickTeleport-1.1.0",
         "Nextek-SpeedyPaths-1.0.8",
