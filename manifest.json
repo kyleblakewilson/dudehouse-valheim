@@ -1,29 +1,5 @@
 {
     "name": "DudehouseServer",
-    "version_number": "1.7.5",
-    "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
-    "description": "Dudehouse Server Mods",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2202",
-        "ValheimModding-Jotunn-2.24.0",
-        "Pineapple-TorchesEternal-0.3.0",
-        "OdinPlus-QuickTeleport-1.1.0",
-        "Nextek-SpeedyPaths-1.0.8",
-        "NaNNaBoaT-Simple_Chat-1.2.0",
-        "CW_Jesse-BetterNetworking_Valheim-2.3.2",
-        "cjayride-AdvancedSigns-0.4.0",
-        "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.4",
-        "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.27",
-        "Valkyrie_Mods-Valkyrie_Death_Messages-0.4.1",
-        "MathiasDecrock-TransparentSail-1.3.0",
-        "Smoothbrain-SmoothSave-1.0.5",
-        "Voxx-TrollRugs-1.0.2",
-        "ASharpPen-Custom_Raids-1.7.14"
-    ]
-}
-
-{
-    "name": "DudehouseServer",
     "version_number": "1.8.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
@@ -47,6 +23,6 @@
         "Alpus-Transmog-2.0.2",
         "Voxx-TrollRugs-1.0.2",
         "ASharpPen-Custom_Raids-1.7.14",
-        "Meldurson-MountUpRestored-3.4.2
+        "Meldurson-MountUpRestored-3.4.2"
     ] 
 }
