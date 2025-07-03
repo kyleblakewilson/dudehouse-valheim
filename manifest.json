@@ -5,11 +5,8 @@
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
-        "OdinPlus-QuickTeleport-1.1.0",
         "NaNNaBoaT-Simple_Chat-1.2.0",
-        "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.4",
-        "Valkyrie_Mods-Valkyrie_Death_Messages-0.4.1",
         "TastyChickenLegs-NoSmokeStayLit-2.3.8",
-        "MathiasDecrock-TransparentSail-1.3.0"
+        "glawks-BetterNetworking_Valheim-2.3.2"
     ] 
 }
