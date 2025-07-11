@@ -1,13 +1,13 @@
 {
     "name": "DudehouseServer",
-    "version_number": "4.0.0",
+    "version_number": "5.0.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "NaNNaBoaT-Simple_Chat-1.2.0",
-        "TastyChickenLegs-NoSmokeStayLit-2.3.8",
         "glawks-BetterNetworking_Valheim-2.3.2",
-        "Digitalroot-Max_Dungeon_Rooms-2.0.37"
+        "Digitalroot-Max_Dungeon_Rooms-2.0.37",
+        "Smoothbrain-DedicatedServer-1.0.1"
     ] 
 }
