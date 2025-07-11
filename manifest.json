@@ -6,7 +6,7 @@
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "NaNNaBoaT-Simple_Chat-1.2.0",
-        "glawks-BetterNetworking_Valheim-2.3.2",
+        "Searica-NetworkTweaks-0.1.5",
         "Digitalroot-Max_Dungeon_Rooms-2.0.37",
         "Smoothbrain-DedicatedServer-1.0.1"
     ] 
