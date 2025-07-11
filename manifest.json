@@ -5,9 +5,10 @@
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
-        "NaNNaBoaT-Simple_Chat-1.2.0",
+        "Crystal-BetterChat-1.4.10",
         "Searica-NetworkTweaks-0.1.5",
         "Digitalroot-Max_Dungeon_Rooms-2.0.37",
-        "Smoothbrain-DedicatedServer-1.0.1"
+        "Smoothbrain-DedicatedServer-1.0.1",
+        "Smoothbrain-TargetPortal-1.2.0"
     ] 
 }
