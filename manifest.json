@@ -1,6 +1,6 @@
 {
     "name": "DudehouseServer",
-    "version_number": "5.0.0",
+    "version_number": "5.1.0",
     "website_url": "https://github.com/kyleblakewilson/dudehouse-valheim/",
     "description": "Dudehouse Server Mods",
     "dependencies": [
@@ -8,7 +8,6 @@
         "Crystal-BetterChat-1.4.10",
         "Searica-NetworkTweaks-0.1.5",
         "Digitalroot-Max_Dungeon_Rooms-2.0.37",
-        "Smoothbrain-DedicatedServer-1.0.1",
         "Valkyrie_Mods-Valkyrie_Death_Messages-0.4.1"
     ] 
 }
