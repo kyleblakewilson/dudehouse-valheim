@@ -5,7 +5,7 @@
     "description": "Dudehouse Server Mods",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
-        "Crystal-BetterChat-1.4.10",
+        "NaNNaBoaT-Simple_Chat-1.2.0",
         "Searica-NetworkTweaks-0.1.5",
         "Digitalroot-Max_Dungeon_Rooms-2.0.37",
         "Valkyrie_Mods-Valkyrie_Death_Messages-0.4.1"
